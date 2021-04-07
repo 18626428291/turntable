@@ -1,0 +1,12 @@
+com/xujiajun/turntable/common/config/MybatisPlusConfig.class
+com/xujiajun/turntable/common/handler/MyMetaObjectHandler.class
+com/xujiajun/turntable/entity/TurnRecord.class
+com/xujiajun/turntable/TurntableApplication.class
+com/xujiajun/turntable/service/impl/TurnRecordServiceImpl.class
+com/xujiajun/turntable/controller/TurnRecordController.class
+com/xujiajun/turntable/entity/vo/TurnRecordVo.class
+com/xujiajun/turntable/common/config/SwaggerConfig.class
+com/xujiajun/turntable/common/api/ResultCode.class
+com/xujiajun/turntable/service/TurnRecordService.class
+com/xujiajun/turntable/mapper/TurnRecordMapper.class
+com/xujiajun/turntable/common/api/R.class

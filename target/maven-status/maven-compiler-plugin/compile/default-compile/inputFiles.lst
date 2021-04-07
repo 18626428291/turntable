@@ -1,0 +1,12 @@
+/Users/xujiajun/Desktop/turnDemo/src/main/java/com/xujiajun/turntable/common/config/SwaggerConfig.java
+/Users/xujiajun/Desktop/turnDemo/src/main/java/com/xujiajun/turntable/entity/vo/TurnRecordVo.java
+/Users/xujiajun/Desktop/turnDemo/src/main/java/com/xujiajun/turntable/common/api/ResultCode.java
+/Users/xujiajun/Desktop/turnDemo/src/main/java/com/xujiajun/turntable/service/TurnRecordService.java
+/Users/xujiajun/Desktop/turnDemo/src/main/java/com/xujiajun/turntable/common/config/MybatisPlusConfig.java
+/Users/xujiajun/Desktop/turnDemo/src/main/java/com/xujiajun/turntable/mapper/TurnRecordMapper.java
+/Users/xujiajun/Desktop/turnDemo/src/main/java/com/xujiajun/turntable/controller/TurnRecordController.java
+/Users/xujiajun/Desktop/turnDemo/src/main/java/com/xujiajun/turntable/entity/TurnRecord.java
+/Users/xujiajun/Desktop/turnDemo/src/main/java/com/xujiajun/turntable/common/handler/MyMetaObjectHandler.java
+/Users/xujiajun/Desktop/turnDemo/src/main/java/com/xujiajun/turntable/common/api/R.java
+/Users/xujiajun/Desktop/turnDemo/src/main/java/com/xujiajun/turntable/service/impl/TurnRecordServiceImpl.java
+/Users/xujiajun/Desktop/turnDemo/src/main/java/com/xujiajun/turntable/TurntableApplication.java
